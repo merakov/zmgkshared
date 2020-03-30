@@ -34,6 +34,7 @@ public class AddNewUI extends PageBean implements Serializable
     private Company company = new Company();
     private IListener m_listener;
     private CompanyUI companyUI;
+    private String someNewPropertyByZlatan;
 
     // ------------------------------------------------------------------------
     // constructors & initialization
