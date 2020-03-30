@@ -67,6 +67,8 @@ public class EmployeeUI extends PageBean implements Serializable
     private void newFun() {
         System.out.println("123");
         System.out.println("Gogo");
+        System.out.println("ABC");
+
     }
 
 }
